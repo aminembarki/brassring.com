@@ -1,0 +1,9 @@
+{
+	"id": "x5ayPJXMws3OgBp",
+	"json": "{\"id\":\"x5ayPJXMws3OgBp\",\"url\":\"https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25416&siteid=5429&PageType=searchResults&SearchType=linkquery&LinkID=4393911#keyWordSearch=&locationSearch=\",\"loadedUrl\":\"https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25416&siteid=5429&PageType=searchResults&SearchType=linkquery&LinkID=4393911#keyWordSearch=&locationSearch=\",\"uniqueKey\":\"https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?LinkID=4393911&PageType=searchResults&SearchType=linkquery&partnerid=25416&siteid=5429\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-02-27T17:19:37.497Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?LinkID=4393911&PageType=searchResults&SearchType=linkquery&partnerid=25416&siteid=5429",
+	"url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25416&siteid=5429&PageType=searchResults&SearchType=linkquery&LinkID=4393911#keyWordSearch=&locationSearch="
+}
